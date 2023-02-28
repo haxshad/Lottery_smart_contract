@@ -1,5 +1,7 @@
 //SPDX-License-Identifier: MIT
 
+// This is a very vulnerable smart contract. I don't recommend using it, even for learning purposes. Thanks.
+
 pragma solidity ^0.8.7;
 
 contract lottery{
